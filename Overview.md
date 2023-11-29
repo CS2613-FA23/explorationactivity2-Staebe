@@ -11,4 +11,7 @@ The functionalities of this module are very user friendly, I am not the hugest f
 The next two functions are all about orentation and can do much the same thing. The first function is _image.rotate(degree of rotation)_ that rotates the image to the degree you provide, I rotated it 90 degrees and here is the car and the piece of code:
 ## insert image
 A very similar function is _image.transpose(command)_ with the options being FLIP_TOP_BOTTOM which flips it on a vertical axis versus the horizontal axis which is FLIP_LEFT_RIGHT. In the case of my example I used the vertical rotaion and below is the image flipped upside down.
-All of the photos above are JPEGs that were saved into my working folder using the save function I created that uses the built-in save to make sure the edited images are easily accesible. Lastly,
+All of the photos above are JPEGs that were saved into my working folder using the save function I created that uses the built-in save to make sure the edited images are easily accesible. The write function I talked about earlier makes me able to write on the images a created but it has many more stipulations and parameters. The colour must be in RGB format and the font needs to be specific.
+## Add images
+Lastly, as we do in a lot of file I/O programs we must close all the images to make sure no memory errors and it is good coding practice to be accustomed too.
+## 
