@@ -10,9 +10,9 @@ Every part of my code has functions with try-catch blocks to ensure that any err
 
 Another function that I demonstrate in my program is the ability to write/draw on the image. This is very useful when it comes to relaying information with the use of images and annotations. Some other functions of the library include the saving function, where all images we have previously improved and edited can be saved as any of the supported file types and can be saved to our personal folder, where we can then implement them in our work.
 
-To finalize the purpose of this, I combined most of the functions I created into a JPEG that prompts the viewer to choose a Porsche model using resize, open, merge, and writing functions. Additionally, there is a built-in function that runs like _ImageName.show()_ and pops up a PNG of the image
-## Insert Image here
+To finalize the purpose of this, I combined most of the functions I created into a JPEG that prompts the viewer to choose a Porsche model using resize, open, merge, and writing functions. Additionally, there is a built-in function that runs like _ImageName.show()_ and pops up a PNG of the image:![completeIm](https://github.com/CS2613-FA23/explorationactivity2-Staebe/assets/144264731/79a038fe-b954-4226-9a4a-e56da0a78a78)
 ## Question 4: Sample Input/Output
 My program mostly works with output and a lot less with input, I believe that makes sense as the library is an image based thing. In terms of possibilty for some input it would be plausible to ask the user for the name of the jpeg they want opened or the colour of font they want to be written on the image. But as it is my task to display the library in an informative way I did not believe this way to be the best as well as being fairly unnecessary. Some sample output on the other hand, I already provided the final product and output of combining a lot of the functionality but I will also show the car flipped as well as it being merged with no text.
-## Add car pics
+![image4](https://github.com/CS2613-FA23/explorationactivity2-Staebe/assets/144264731/4268527a-302f-4a0b-b62d-8160866290c3)
+![image5](https://github.com/CS2613-FA23/explorationactivity2-Staebe/assets/144264731/01bd5e0a-06f2-43ac-9ea0-9d6f5586055c)
 
